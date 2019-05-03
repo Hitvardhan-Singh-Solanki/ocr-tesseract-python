@@ -1,0 +1,1 @@
+python ocr_template_match.py --reference images/ocr_a_reference.png --image images/credit_card_06.png
